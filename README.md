@@ -77,7 +77,7 @@ The analysis aims to identify:
 
 **Nilesh Pardhi**
 
-* GitHub: [nilesh-2006](https://github.com/nilesh-2006)
+* GitHub: [nilesh-2006](https://github.com/Nilesh-Pardhi)
 * LinkedIn: [nilesh-pardhi](https://www.linkedin.com/in/nilesh-pardhi/)
 
 ## ⭐ Acknowledgements

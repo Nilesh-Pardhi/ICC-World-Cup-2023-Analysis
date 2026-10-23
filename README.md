@@ -106,26 +106,6 @@ jupyter notebook
 
 Open the project's analysis notebook and run the cells in order.
 
-## 📁 Project Structure
-
-```text
-ICC_World_Cup_2023/
-│
-├── data/
-│   ├── deliveries.csv
-│   ├── matches.csv
-│   └── points_table.csv
-│
-├── notebooks/
-│   └── ICC_World_Cup_2023_Analysis.ipynb
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-*The structure above is an example. Update folder and file names to match the actual repository.*
-
 ## 📌 Future Improvements
 
 * Build an interactive Power BI dashboard.

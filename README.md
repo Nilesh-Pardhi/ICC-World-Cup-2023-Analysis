@@ -66,46 +66,6 @@ The analysis aims to identify:
 
 *Actual numerical findings will be added after validating the analysis results.*
 
-## 🚀 How to Run the Project
-
-### Step 1: Clone the repository
-
-```bash
-git clone https://github.com/nilesh-2006/ICC-World-Cup-2023-Analysis.git
-```
-
-### Step 2: Navigate to the project folder
-
-```bash
-cd ICC-World-Cup-2023-Analysis
-```
-
-### Step 3: Create a virtual environment (optional)
-
-```bash
-python -m venv .venv
-```
-
-Activate it on Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-### Step 4: Install dependencies
-
-```bash
-pip install pandas numpy matplotlib jupyter
-```
-
-### Step 5: Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the project's analysis notebook and run the cells in order.
-
 ## 📌 Future Improvements
 
 * Build an interactive Power BI dashboard.
